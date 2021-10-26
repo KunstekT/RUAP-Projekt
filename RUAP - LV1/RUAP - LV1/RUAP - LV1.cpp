@@ -5,7 +5,8 @@
 
 int main()
 {
-    std::cout << "Pozdrav iz aplikacije od Tonija Kunšteka!\n";
+    std::cout << "Pozdrav iz aplikacije od Tonija Kunšteka! JMBAG:0165078836\n";
+    std::cout << "Kako dobiti index (tj. Staging area index) neznam \n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
